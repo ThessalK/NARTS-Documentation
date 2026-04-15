@@ -1,0 +1,23 @@
+# ==========================================
+# NARTS Strict Public Repository Gitignore
+# ==========================================
+# This file restricts the Git repository to ONLY 
+# upload the documentation folder to GitHub.
+# Your Google Apps Script code (*.gs, *.html) 
+# remains 100% private and protected on your PC.
+
+# 1. Ignore EVERYTHING in this directory by default
+*
+
+# 2. Allow the docs folder and all its contents
+!docs/
+!docs/**
+
+# 3. Allow this .gitignore file so the rules apply
+!.gitignore
+
+# 4. Explicitly ensure sensitive files are never pushed
+.clasp.json
+*.gs
+*.html
+*.xlsx

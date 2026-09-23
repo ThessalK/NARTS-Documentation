@@ -1,7 +1,7 @@
-# NARTS — User Manual
+﻿# NARTS — User Manual
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital — NCD Care Department*
+> *Kidus Petros Hospital — NCD Care Department*
 > *Version 2.2 · May 2026*
 
 ---
@@ -622,11 +622,15 @@ NARTS automatically sends Amharic-language SMS messages to patients at key point
 | SMS Type | When It Is Sent | Language |
 |----------|----------------|---------|
 | **Consent Request** | Immediately upon patient registration | Amharic 🇪🇹 |
-| **Appointment Reminder** | Day before scheduled appointment, 9 AM EAT | Amharic 🇪🇹 |
+| **72hr Appointment Reminder** | 3 days before scheduled appointment, 3 PM EAT | Amharic 🇪🇹 |
+| **24hr Appointment Reminder** | Day before scheduled appointment, 3 PM EAT | Amharic 🇪🇹 |
 | **Missed Appointment** | 1–6 days after a no-show (auto, no dial needed) | Amharic 🇪🇹 |
 | **Agreed Return-Visit Reminder** | Day before the patient's agreed return date | Amharic 🇪🇹 |
 | **Health Education** | Periodic educational messages (sent manually) | Amharic 🇪🇹 |
 | **Condolence** | Sent automatically when "Died" outcome is logged | Amharic 🇪🇹 |
+| **Feedback Request** | Sent to patient after visit for quality feedback | Amharic 🇪🇹 |
+
+> **Note:** The **72hr** and **24hr** appointment reminders are triggered automatically at 3:00 PM EAT daily. Each can be toggled on/off independently from the **Admin → SMS Control Center → Automated Categories**.
 
 ### Consent Status
 
@@ -700,5 +704,5 @@ For technical assistance, contact your **hospital IT department** or the **NARTS
 
 ---
 
-*© 2026 St. Peter's Specialized Hospital — NCD Department*
+*© 2026 Kidus Petros Hospital — NCD Department*
 *NARTS User Manual v2.2 — Authorised Clinical Staff Only*

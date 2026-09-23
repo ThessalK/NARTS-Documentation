@@ -1,7 +1,7 @@
 # NARTS — Data Dictionary & Schema Reference
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital · Version 1.1 · March 2026*
+> *Kidus Petros Hospital · Version 1.1 · March 2026*
 
 ---
 
@@ -179,4 +179,4 @@ Every significant action in NARTS is logged to the AuditLog sheet. Key event typ
 
 ---
 
-*© 2026 St. Peter's Specialized Hospital · NCD Department — Internal Technical Reference*
+*© 2026 Kidus Petros Hospital · NCD Department — Internal Technical Reference*

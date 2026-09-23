@@ -1,7 +1,7 @@
 # NARTS — Terms of Service
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital · Addis Ababa, Ethiopia*
+> *Kidus Petros Hospital · Addis Ababa, Ethiopia*
 > *Effective Date: March 2026 · Version: 1.1*
 
 ---
@@ -16,7 +16,7 @@ These Terms apply to all users across all clinical and administrative roles, inc
 
 ## 2. System Purpose and Scope
 
-NARTS is a **secure, internal clinical workflow tool** provided exclusively to St. Peter's Specialized Hospital staff for the purpose of:
+NARTS is a **secure, internal clinical workflow tool** provided exclusively to Kidus Petros Hospital staff for the purpose of:
 - Tracking and managing NCD patient appointments and retention
 - Sending automated, consent-based SMS communications to patients
 - Monitoring clinical adherence indicators (medication and follow-up)
@@ -78,7 +78,7 @@ In strict accordance with the **Ethiopian Personal Data Protection Proclamation 
 
 **5.2 Log Integrity:** Audit logs cannot be deleted, altered, or obfuscated by any user, including Administrators.
 
-**5.3 Hospital Oversight:** St. Peter's Specialized Hospital reserves the right to review audit logs at any time in the event of a suspected policy violation, clinical error, or data breach.
+**5.3 Hospital Oversight:** Kidus Petros Hospital reserves the right to review audit logs at any time in the event of a suspected policy violation, clinical error, or data breach.
 
 ---
 
@@ -136,7 +136,7 @@ All users acknowledge and agree that:
 > 
 > **10.2** NARTS is **a decision-support tool only** — it does not replace, supersede, or diminish professional clinical judgment. Appointment data shown in the system must always be verified against the master medical record if a discrepancy is suspected.
 
-**10.3** St. Peter's Specialized Hospital is not liable for adverse outcomes arising from clinical decisions based on data that has been incorrectly entered, omitted, or misinterpreted by staff.
+**10.3** Kidus Petros Hospital is not liable for adverse outcomes arising from clinical decisions based on data that has been incorrectly entered, omitted, or misinterpreted by staff.
 
 ---
 
@@ -162,10 +162,10 @@ Any disputes arising from the use of NARTS shall be resolved exclusively through
 
 ## 13. Amendments
 
-St. Peter's Specialized Hospital reserves the right to amend these Terms at any time to reflect changes in law, clinical policy, or system functionality. Users will be notified of material changes, and continued use of the System constitutes formal acceptance of the updated Terms.
+Kidus Petros Hospital reserves the right to amend these Terms at any time to reflect changes in law, clinical policy, or system functionality. Users will be notified of material changes, and continued use of the System constitutes formal acceptance of the updated Terms.
 
 ---
 
 *By logging into NARTS via your phone number and password, you formally confirm that you have read, understood, and accept these Terms of Service.*
 
-*© 2026 St. Peter's Specialized Hospital — NCD Department.*
+*© 2026 Kidus Petros Hospital — NCD Department.*

@@ -1,7 +1,7 @@
 # NARTS SMS Types — Full Analysis
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital · Version 1.1 · March 2026*
+> *Kidus Petros Hospital · Version 1.1 · March 2026*
 
 ---
 
@@ -91,4 +91,4 @@ Every outgoing message is recorded immutably to the `SMS` database sheet:
 | J | `time_stamp` (Global Row Stamp) |
 
 ---
-*© 2026 St. Peter's Specialized Hospital · NCD Department — Internal Technical Reference*
+*© 2026 Kidus Petros Hospital · NCD Department — Internal Technical Reference*

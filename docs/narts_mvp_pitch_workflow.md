@@ -1,14 +1,14 @@
 # NARTS — MVP Workflow & Pitch Document
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital · Addis Ababa, Ethiopia*
+> *Kidus Petros Hospital · Addis Ababa, Ethiopia*
 > *MVP v1.1 · March 2026*
 
 ---
 
 ## 🌩️ The Problem
 
-Ethiopia's NCD burden is accelerating — **over 40% of chronic care patients** at major referral hospitals miss scheduled follow-ups. At St. Peter's Specialized Hospital, **paper-based appointment registers** make it impossible to:
+Ethiopia's NCD burden is accelerating — **over 40% of chronic care patients** at major referral hospitals miss scheduled follow-ups. At Kidus Petros Hospital, **paper-based appointment registers** make it impossible to:
 
 - Detect a missed patient until weeks have passed
 - Reach patients proactively with timely reminders
@@ -133,4 +133,4 @@ flowchart TD
 > *NARTS transforms NCD chronic care from reactive paper-based tracking into a proactively beautiful, data-driven, and resilient digital health system.*
 
 ---
-*© 2026 St. Peter's Specialized Hospital — NCD Department*
+*© 2026 Kidus Petros Hospital — NCD Department*

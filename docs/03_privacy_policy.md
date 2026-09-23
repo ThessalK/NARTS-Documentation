@@ -1,7 +1,7 @@
 # NARTS — Privacy Policy
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital · Addis Ababa, Ethiopia*
+> *Kidus Petros Hospital · Addis Ababa, Ethiopia*
 > *Effective Date: March 2026 · Version: 1.1*
 
 ---
@@ -13,11 +13,11 @@
 
 ## 1. Data Controller Information
 
-St. Peter's Specialized Hospital is the legal **Data Controller** under Article 2(10) of the Proclamation for all patient data processed through the NARTS ecosystem.
+Kidus Petros Hospital is the legal **Data Controller** under Article 2(10) of the Proclamation for all patient data processed through the NARTS ecosystem.
 
 | Entity | Details |
 |--------|---------|
-| **Organisation** | St. Peter's Specialized Hospital |
+| **Organisation** | Kidus Petros Hospital |
 | **Department** | Non-Communicable Diseases (NCD) Care Department |
 | **Location** | Addis Ababa, Federal Democratic Republic of Ethiopia |
 | **Data Protection Officer** | *[Hospital DPO Name / Contact]* |
@@ -154,9 +154,9 @@ In accordance with **Articles 43 and 44**:
 
 To exercise your data rights, or if you firmly believe your privacy has been violated, please contact:
 
-1. **St. Peter's NCD Department / Data Protection Officer**
+1. **Kidus Petros NCD Department / Data Protection Officer**
 2. **Ethiopian Communications Authority (ECA)** — Data Protection & Privacy Unit ([eca.gov.et](https://www.eca.gov.et))
 
 ---
 
-*© 2026 St. Peter's Specialized Hospital. All rights reserved.*
+*© 2026 Kidus Petros Hospital. All rights reserved.*

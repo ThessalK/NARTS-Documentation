@@ -1,7 +1,7 @@
 # NARTS — Administrator Guide
 
 > **Non-Communicable Disease Appointment & Retention Tracking System**
-> *St. Peter's Specialized Hospital*
+> *Kidus Petros Hospital*
 > *Version 1.1 · March 2026*
 
 ---
@@ -10,7 +10,7 @@
 > **Who is this for?** This guide is written exclusively for the **System Administrator** (Role: Admin). It covers initial system setup, user management, security responsibilities, and routine maintenance. Clinical staff do not require this guide.
 
 > [!NOTE]
-> **Your role in the Digital Health Mission:** As a System Administrator at St. Peter's, you are a primary steward of the hospital's *Information Revolution*. Your governance of NARTS directly supports the **Ethiopia Digital Health Blueprint 2021–2030** — ensuring that patient data is managed with the highest standards of integrity, security, and accountability.
+> **Your role in the Digital Health Mission:** As a System Administrator at Kidus Petros Hospital, you are a primary steward of the hospital's *Information Revolution*. Your governance of NARTS directly supports the **Ethiopia Digital Health Blueprint 2021–2030** — ensuring that patient data is managed with the highest standards of integrity, security, and accountability.
 
 ---
 
@@ -148,5 +148,5 @@ To manage incoming feedback:
 
 ---
 
-*© 2026 St. Peter's Specialized Hospital — Administrator Reference v1.1*  
+*© 2026 Kidus Petros Hospital — Administrator Reference v1.1*  
 *⚠️ RESTRICTED — For System Administrator Use Only*

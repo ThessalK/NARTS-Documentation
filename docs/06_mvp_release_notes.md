@@ -1,6 +1,6 @@
 # NARTS v1.1 — MVP Release Notes & Product Roadmap
 
-> **St. Peter's Specialized Hospital · NCD Care Department**
+> **Kidus Petros Hospital · NCD Care Department**
 > *Release: March 2026*
 
 ---
@@ -71,7 +71,7 @@ Future development aligns structurally with the **Ethiopia Digital Health Bluepr
 - [ ] **Background Synchronization** — Service Workers recording data locally and syncing to Sheets when connectivity restores.
 
 ### Phase 2 — Institutional Integration *(Q4 2026)*
-- [ ] **Bahmni EMR Integration** — Bi-directional sync with St. Peter's central EMR.
+- [ ] **Bahmni EMR Integration** — Bi-directional sync with Kidus Petros central EMR.
 - [ ] **Automated Nightly Backups** — Redundant copies to Google Drive.
 - [ ] **SMS Delivery Receipts** — Tracking confirmed vs. failed delivery.
 
@@ -95,4 +95,4 @@ Future development aligns structurally with the **Ethiopia Digital Health Bluepr
 ---
 
 *NARTS v1.1 MVP · March 2026*  
-*St. Peter's Specialized Hospital — NCD Department · Addis Ababa, Ethiopia*
+*Kidus Petros Hospital — NCD Department · Addis Ababa, Ethiopia*
